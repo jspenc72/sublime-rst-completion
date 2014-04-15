@@ -29,6 +29,9 @@ Otherwise you can:
   your `packages folder <http://sublimetext.info/docs/en/basic_concepts.html#the-packages-directory>`_::
 
       git clone git@github.com:dbousamra/sublime-rst-completion.git
+   
+   The Default packages directory on a mac is:
+   /Users/{USERNAME}/Library/Application Support/Sublime Text 3/Packages
 
 - Or download the `.zip`_ file and unzip it into your ST2/ST3 packages
   directory.
